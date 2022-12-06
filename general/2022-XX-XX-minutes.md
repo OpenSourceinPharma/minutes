@@ -15,12 +15,7 @@
 
 Item | Description
 ---- | ----
-Open Pharma goals for 2023 | • Format (virtual/hybrid) <br>• Purpose and mission statement  
-Budget | • Founding expenses, Ongoing expenses, Unaccounted expenses, 2022 Incoming sponsorship report <br>• Acknowledgement letter process (check vs ACH) <br> • policy about incoming / outgoing expenses
-Meeting schedule | • Schedule of meetings for 2023 (4 meetings) <br>• MB to report on elements we agree on her
-Communications policy | • Policy for communications that are public <br>• How should board members review, approve and document approved
-Website | • Repo deployed <br>• What is outstanding to deploy it to the correct URL  <br>• Confirm URL
-Tools | • Meeting software descision (meet/slack) <br>• What is outstanding to deploy it to the correct URL 
+Decision on [openpharma](https://github.com/openpharma) | • Un-opinionated host for R package code <br>• Agree to prepare a policy for package inclusion/exclusion  
   
 ## Tabled Notes:
 
@@ -39,9 +34,11 @@ Feedback summary:
 
 ## Meeting Notes:
 
-* 
+* placeholder
+
+## Decisions:
 
 ## Actions:
   
-- [ ] placeholder
-- [ ] placeholder
+- [ ] opensourceinpharma.com for website
+- [ ] 
