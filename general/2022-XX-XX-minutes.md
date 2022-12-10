@@ -15,7 +15,7 @@
 
 Item | Description
 ---- | ----
-Decision on [openpharma](https://github.com/openpharma) | • Un-opinionated host for R package code <br>• Agree to prepare a policy for package inclusion/exclusion  
+Decision on [openpharma](https://github.com/openpharma) | • openpharma is an un-opinionated host for R package code <br>• Does the board endorse the policy for package inclusion/exclusion proposed in https://github.com/policies
   
 ## Tabled Notes:
 
@@ -38,7 +38,10 @@ Feedback summary:
 
 ## Decisions:
 
+- [ ] 
+- [ ]
+
 ## Actions:
   
-- [ ] opensourceinpharma.com for website
+- [ ] 
 - [ ] 
